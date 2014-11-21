@@ -8,7 +8,7 @@ Node module that adds 2 stars or 2 pipes to a string.
   npm install starpipe --save
 
 ## Usage
-
+```javascript
   var starpipe = require('starpipe')
       starme = starpipe.starme,
       pipeme = starpipe.pipeme;
@@ -16,7 +16,7 @@ Node module that adds 2 stars or 2 pipes to a string.
   var str = 'some word here.',
       starred = starme(str),
       piped = pipeme(str);
-
+```
 ## Tests
 
   npm test
