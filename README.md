@@ -1,7 +1,7 @@
 Star and Pipe
 =============
 
-Adds 2 stars or 2 pipes to a string.
+Node module that adds 2 stars or 2 pipes to a string.
 
 ## Installation
 
